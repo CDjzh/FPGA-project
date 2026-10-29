@@ -1,0 +1,12 @@
+build/
+*_Runs/
+*.log
+*.logw
+*.db
+*.wlf
+*.vcd
+*.vvp
+__pycache__/
+.local_paths.json
+fpga/project/synth.tcl
+fpga/project/physical.tcl

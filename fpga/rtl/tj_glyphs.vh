@@ -1,0 +1,14 @@
+localparam GLYPH_ZERO=8'd2, GLYPH_COLON=8'd12;
+localparam G_R=8'd24;
+localparam G_A=8'd13;
+localparam G_M=8'd22;
+localparam G_O=8'd23;
+localparam G_K=8'd20;
+localparam G_F=8'd18;
+localparam G_I=8'd19;
+localparam G_L=8'd21;
+localparam G_B=8'd14;
+localparam G_C=8'd15;
+localparam G_D=8'd16;
+localparam G_E=8'd17;
+localparam G_SPACE=8'd0;
